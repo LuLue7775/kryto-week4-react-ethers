@@ -1,9 +1,10 @@
 # kryptocamp-week4-f2e
 
-### steps
+### Steps
 
 ```bash
-cd /w4-homework
+git clone git@github.com:intheblackworld/kryptocamp-v3-w4-homework.git
+cd /kryptocamp-v3-w4-homework
 npm i
 npm run start
 ```
